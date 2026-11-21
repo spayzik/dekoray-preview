@@ -1,0 +1,1 @@
+import{t as e}from"./vendor-react-Ddlwjoh1.js";import{t}from"./Reviews-DEym4znb.js";import{l as n}from"./vendor-motion-C_FUTXm7.js";var r=e(),i=n(),a=document.querySelector(`[data-seo-reviews]`);a&&(0,r.createRoot)(a).render((0,i.jsx)(t,{assetBase:a.dataset.assetBase}));

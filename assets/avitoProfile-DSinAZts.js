@@ -1,0 +1,1 @@
+import{t as e}from"./products-CNXLL7Bv.js";var t;function n(e){if(!e)return null;try{let t=new URL(e);if(t.protocol===`https:`&&[`avito.ru`,`www.avito.ru`].includes(t.hostname)&&!t.username&&!t.password&&!t.port&&t.pathname.length>1)return t.href}catch(e){}return null}var r=(t=n(void 0))==null?e.avito:t;export{r as t};
